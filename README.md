@@ -2,6 +2,9 @@
 
 This repository contains content exploring the role of Generative AI in the defense industry, including personal background and perspectives on AI integration and security. It serves as a working space for drafting and finalizing written material related to AI in national defense.
 
+# YouTube URL
+https://youtu.be/toGVJ1A28R4
+
 ## Git Steps Used
 
 1. Initialized the repository with `git init` and connected it to GitHub via `git remote add origin`
